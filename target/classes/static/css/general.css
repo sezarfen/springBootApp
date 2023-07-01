@@ -1,0 +1,20 @@
+body{
+    background: url("../media/bg-green.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.main-part{
+    margin-top: 130px;
+}
+.main-hadith
+{
+    border-radius: 3px;
+    margin-bottom: 14px;
+    color: white;
+    font-weight: bold;
+    border: 2px #ffbd59 solid;
+    padding: 5px;
+}
